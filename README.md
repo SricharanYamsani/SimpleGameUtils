@@ -1,2 +1,2 @@
 # SimpleGameUtils
-A collection of simple game utilities for Unity projects. 
+A Unity project with a collection of simple game utilities. 
